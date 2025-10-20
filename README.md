@@ -17,4 +17,5 @@ Gameplay Instructions
 
 
 The OUTPUT
+
 <img width="524" height="561" alt="Screenshot 2025-10-20 141445" src="https://github.com/user-attachments/assets/297cf049-bfa2-48c3-9a90-24e36211dd7c" />
