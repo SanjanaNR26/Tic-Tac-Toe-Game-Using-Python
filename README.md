@@ -3,6 +3,7 @@ Tic Tac Toe vs Smart Computer (Python + Tkinter)
 The file TicTacToe.py is a classic Tic Tac Toe game built with Python's tkinter GUI library, where you play against a smart AI opponent. The computer uses the Minimax algorithm to play optimally, making it very challenging to beat.
 
 The file TicTacToe1.py is a classic Tic Tac Toe game built with Python's tkinter GUI library, where you play against a smart AI opponent and  if you start one round, the computer will start the next — making it more fair and competitive.
+
 Features are 2-player grid (You vs Computer), GUI using tkinter, Smart AI using Minimax algorithm, Detects win, loss, and draw, Automatically resets after each game.
 
 Gameplay Instructions
